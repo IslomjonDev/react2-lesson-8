@@ -1,0 +1,19 @@
+.banner{
+    background-image: url(../../assets/banner.webp);
+    width: 100%;
+    padding: 180px 50px;
+    background-repeat: no-repeat;
+    button{
+        padding: 10px 70px;
+        background-color: black;
+        color: #fff;
+        border-radius: 20px;
+        border: 1px solid black;
+    }
+    h2{
+        margin: 20px 0 ; 
+    }
+    h1{
+        font-size: 46px;
+    }
+}
